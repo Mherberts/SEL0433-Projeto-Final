@@ -89,5 +89,5 @@ Na entrega final, unimos as funcionalidades dos três checkpoints e implementamo
  
 O vídeo abaixo apresenta o projeto final em execução no simulador EdSim51, demonstrando as funcionalidades implementadas ao longo dos checkpoints.
  
-🎥 [Clique aqui para assistir à demonstração](https://youtu.be/Z08C_YVxi5E)
+ [Clique aqui para assistir à demonstração](https://youtu.be/Z08C_YVxi5E)
 
